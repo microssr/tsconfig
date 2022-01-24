@@ -1,0 +1,9 @@
+{
+  "private": false,
+  "name": "@microssr/tsconfig",
+  "version": "0.1.0",
+  "description": "TypeScript configuration preset",
+  "repository": "https://github.com/microssr/tsconfig",
+  "author": "David Delassus <david.jose.delassus@gmail.com>",
+  "license": "MIT"
+}
